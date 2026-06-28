@@ -234,6 +234,11 @@ s = 'abc'
 it = iter(s)
 print(next(it))
 
+n = 5
+print('*'*10)
+for i in range(3):
+    print(" ",i )
+
 
 
 
